@@ -6,9 +6,9 @@
 
 *Breakout rooms for Practical Work*
 
-** OGC API - Processes, To be provided to registered participants.
-** OGC API - Records, To be provided to registered participants.
-** OGC API - Coverages, To be provided to registered participants.
+** OGC API - Routes, To be provided to registered participants.
+** OGC API - Discrete Global Grid Systems, To be provided to registered participants.
+** OGC API - Common, To be provided to registered participants.
 
 *GitHub*
 
