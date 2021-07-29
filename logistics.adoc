@@ -1,0 +1,19 @@
+== Sprint Logistics
+
+*Gotomeeting*
+
+** Main Gotomeeting virtual room - To be provided to registered participants.
+
+*Breakout rooms for Practical Work*
+
+** OGC API - Processes, To be provided to registered participants.
+** OGC API - Records, To be provided to registered participants.
+** OGC API - Coverages, To be provided to registered participants.
+
+*GitHub*
+
+* Public repo https://github.com/opengeospatial/ogcapi-code-sprint-2021-10
+
+*Gitter*
+
+* https://gitter.im/ogc-developer/Sprints
