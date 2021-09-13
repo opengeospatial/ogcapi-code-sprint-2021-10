@@ -23,7 +23,7 @@ The October 2021 OGC API Virtual Code Sprint will focus on the following draft O
 * The draft [OGC API - Common](https://ogcapi.ogc.org/common) specification describes the set of common practices and shared requirements that have emerged from the development of Resource Oriented Architectures and Web APIs within the OGC. The draft specification serves as a common foundation upon which all OGC APIs will be built. Consistent with the architecture of the Web, this draft specification uses a resource architecture that conforms to principles of Representational State Transfer (REST). The draft specification establishes a common pattern that leverages the OpenAPI specification for describing APIs.
 
 
-Register at TBA
+Register at https://portal.ogc.org/public_ogc/register/211026api_codesprint.php
 
 
 * [Sprint Description](./about.adoc)
