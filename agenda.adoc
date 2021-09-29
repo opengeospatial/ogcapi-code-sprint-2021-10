@@ -12,14 +12,16 @@ All times on the agenda are in EDT (New York time).
 |10 minutes | Overview of OGC API - Routes | Clemens Portele (interactive instruments GmbH)
 |10 minutes | Overview of OGC API - Discrete Global Grid Systems |  Matt Purss (Pangaea Innovations), Robert Gibb (Manaaki Whenua - Landcare Research)
 |10 minutes | Overview of OGC API - Common |  Joan Maso (UAB-CREAF)
-|25 minutes | Questions & Answers|
+|10 minutes | A Summary of Testbed-17 API Experiments |  Josh Lieberman (OGC)
+|15 minutes | Questions & Answers|
 3+|*26th October 2021* - https://www.timeanddate.com/worldclock/meetingtime.html?day=26&month=10&year=2021&p1=224&p2=179&p3=16&p4=44&p5=240&p6=136&iv=0[See World Clock]
 |07:00-07:25 |Welcome & objectives &#10036; | Gobe Hobona (OGC), Joana Simoes (OGC)
 |07:25-07:40 |Sprint goals for OGC API - Routes &#10036;|  Clemens Portele (interactive instruments GmbH)
 |07:40-07:55 |Sprint goals for OGC API - Discrete Global Grid Systems &#10036;|  Matt Purss (Pangaea Innovations), Robert Gibb (Manaaki Whenua - Landcare Research)
 |07:55-08:10 |Sprint goals for OGC API - Common &#10036;|   Chuck Heazel (Heazel Technologies)
-|08:10-08:20 |Questions and Answers &#10036;|
-|08:20-13:00 |Practical work (https://github.com/opengeospatial/ogcapi-code-sprint-2021-10/blob/main/logistics.adoc[See Breakout Rooms])|
+|08:10-08:25 |Sprint goals for Testbed-17 API Experiments &#10036;|   Josh Lieberman (OGC)
+|08:25-08:40 |Questions and Answers &#10036;|
+|08:40-13:00 |Practical work (https://github.com/opengeospatial/ogcapi-code-sprint-2021-10/blob/main/logistics.adoc[See Breakout Rooms])|
 |13:00-13:30 |Break |
 |13:30-16:30 |Practical work (https://github.com/opengeospatial/ogcapi-code-sprint-2021-10/blob/main/logistics.adoc[See Breakout Rooms])|
 |16:30-17:30 |Daily brief back &#10036;|
