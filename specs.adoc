@@ -1,5 +1,6 @@
 == API Specs
 
 * OGC API - Discrete Global Grid Systems https://ogcapi.ogc.org/dggs
+* Draft Example of an OpenAPI definition document for a DGGS API https://app.swaggerhub.com/apis/geofizzydrink/ogc_api_dggs/0.0.6
 * OGC API - Common https://ogcapi.ogc.org/common
 * OpenAPI https://github.com/OAI/OpenAPI-Specification/blob/master/versions/3.0.1.md
