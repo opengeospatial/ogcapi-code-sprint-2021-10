@@ -24,7 +24,7 @@ All times on the agenda are in EDT (New York time).
 |13:30-16:30 |Practical work |
 |16:30-17:30 |Briefings &#10036;|
 3+|*27th October 2021* - https://www.timeanddate.com/worldclock/meetingtime.html?day=27&month=10&year=2021&p1=224&p2=179&p3=16&p4=44&p5=240&p6=136&iv=0[See World Clock]
-|04:00-05:00 |Briefings &#10036;|
+|04:00-05:00 |Networking &#10036;|
 |05:00-09:00 |Practical work|
 |09:00-10:00 |a short stand-up and preliminary demonstration &#10036; |
 |10:00-12:30 |Practical work |
@@ -33,7 +33,7 @@ All times on the agenda are in EDT (New York time).
 |13:30-16:30 |Practical work |
 |16:30-17:30 |Briefings &#10036;|
 3+|*28th October 2021* - https://www.timeanddate.com/worldclock/meetingtime.html?day=28&month=10&year=2021&p1=224&p2=179&p3=16&p4=44&p5=240&p6=136&iv=0[See World Clock]
-|04:00-05:00 |Briefings &#10036;|
+|04:00-05:00 |Networking &#10036;|
 |05:00-09:00 |Practical work |
 |09:00-10:00 |a short stand-up and preliminary demonstration &#10036; |
 |10:00-12:30 |Practical work |
