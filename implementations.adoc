@@ -29,6 +29,26 @@
 | OGC API - DGGS
 | https://github.com/aaime[@aaime]
 
+| https://gs-main.geosolutionsgroup.com/geoserver/features/[GeoServer]
+| OGC API - Features
+| https://github.com/aaime[@aaime]
+
+| https://gs-main.geosolutionsgroup.com/geoserver/tiles/[GeoServer]
+| OGC API - Tiles
+| https://github.com/aaime[@aaime]
+
+| https://gs-main.geosolutionsgroup.com/geoserver/maps/[GeoServer]
+| OGC API - Maps (incomplete)
+| https://github.com/aaime[@aaime]
+
+| https://gs-main.geosolutionsgroup.com/geoserver/styles/[GeoServer]
+| OGC API - Styles
+| https://github.com/aaime[@aaime]
+
+| https://gs-main.geosolutionsgroup.com/geoserver/coverages/[GeoServer]
+| OGC API - Coverages (incomplete)
+| https://github.com/aaime[@aaime]
+
 | TBA
 | TBA
 | TBA
