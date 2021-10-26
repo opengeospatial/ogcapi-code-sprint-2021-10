@@ -25,9 +25,9 @@
 |===
 |Implementation | Type | Contact
 
-| TBA
-| TBA
-| TBA
+| https://tb16.geo-solutions.it/geoserver/ogc/dggs[GeoServer]
+| OGC API - DGGS
+| @aaime
 
 | TBA
 | TBA
