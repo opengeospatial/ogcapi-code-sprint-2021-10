@@ -67,9 +67,9 @@
 |===
 |Implementation | Type | Contact
 
-| TBA
-| TBA
-| TBA
+| https://github.com/opengeospatial/T17-API-D176-dev[T17 WorldWind Client]
+| OGC API - EDR and Features
+| https://github.com/karriojala[@karriojala]
 
 | TBA
 | TBA
