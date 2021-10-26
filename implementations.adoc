@@ -27,7 +27,7 @@
 
 | https://tb16.geo-solutions.it/geoserver/ogc/dggs[GeoServer]
 | OGC API - DGGS
-| @aaime
+| https://github.com/aaime[@aaime]
 
 | TBA
 | TBA
