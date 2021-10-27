@@ -51,7 +51,7 @@
 
 | http://kralidis.ca:8001[pygeoapi]
 | OGC API - Features/Coverages/Tiles/Processes/Records/EDR
-| https://github.com/tomkralidis[Tom Kralidis]
+| https://github.com/tomkralidis[@tomkralidis]
 
 | https://dggs-api-bozea3cspa-ew.a.run.app/dggs-api[TBA]
 | OGC API - DGGS
