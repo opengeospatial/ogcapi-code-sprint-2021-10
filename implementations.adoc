@@ -49,9 +49,14 @@
 | OGC API - Coverages (incomplete)
 | https://github.com/aaime[@aaime]
 
-| TBA
-| TBA
-| TBA
+| http://kralidis.ca:8001[pygeoapi]
+| OGC API - Features/Coverages/Tiles/Processes/Records/EDR
+| https://github.com/tomkralidis[Tom Kralidis]
+
+| https://dggs-api-bozea3cspa-ew.a.run.app/dggs-api[TBA]
+| OGC API - DGGS
+| https://github.com/allixender[@allixender]
+
 
 | TBA
 | TBA
@@ -71,9 +76,9 @@
 | OGC API - EDR and Features
 | https://github.com/karriojala[@karriojala]
 
-| TBA
-| TBA
-| TBA
+| https://rmcf.github.io/dggs-webgis/#/[DGGS web-GIS]
+| OGC API - DGGS
+| https://github.com/rmcf[@rmcf]
 |===
 
 === Executable Test Suite
