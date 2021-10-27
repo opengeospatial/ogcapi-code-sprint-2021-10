@@ -53,7 +53,7 @@
 | OGC API - Features/Coverages/Tiles/Processes/Records/EDR
 | https://github.com/tomkralidis[@tomkralidis]
 
-| https://dggs-api-bozea3cspa-ew.a.run.app/dggs-api[TBA]
+| https://dggs-api-bozea3cspa-ew.a.run.app/dggs-api[Prototype by the University of Tartu]
 | OGC API - DGGS
 | https://github.com/allixender[@allixender]
 
