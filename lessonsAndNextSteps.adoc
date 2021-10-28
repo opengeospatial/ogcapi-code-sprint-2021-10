@@ -2,14 +2,28 @@
 
 == Immediate Lessons
 
-* TBA
-* TBA
+* There were areas where more documentation was needed to help with coding the API.
+* Code sprints can be good ways to get new developers into implementing a standard.
+* The v0.0.6 API definition document was evolving, so the previous version offered an stable alternative.
+* It was helpful having participants from different SWGs participate in the same code sprint. It's helpful to have multiple specifications covered by the same code sprint.
+* The fact that we had multiple programming languages and client-side/server-side apps, showed diversity of support and will benefit the evolution of the standard.
+* An extended agenda that enables participation from more timezones should be applied and promoted in future code sprints.
+* Consider a rolling agenda for supporting more timezones.
+* The Networking had some participation. Should be considered in the future and possibly evolved.
+* More clarification of the role of the different communication channels (e.g. Gitter, GitHub issues) would be useful. Add to the FAQ.
+
 
 == Next Steps for the Innovation Program
 
 * TBA
+* TBA
+* TBA
+* TBA
 
 == Next Steps for the Standards Program
 
+* TBA
+* TBA
+* TBA
 * TBA
 * TBA
