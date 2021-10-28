@@ -25,27 +25,27 @@
 |===
 |Implementation | Type | Contact
 
-| https://tb16.geo-solutions.it/geoserver/ogc/dggs[GeoServer]
+| https://tb16.geo-solutions.it/geoserver/ogc/dggs[GeoSolutions GeoServer]
 | OGC API - DGGS
 | https://github.com/aaime[@aaime]
 
-| https://gs-main.geosolutionsgroup.com/geoserver/features/[GeoServer]
+| https://gs-main.geosolutionsgroup.com/geoserver/features/[GeoSolutions GeoServer]
 | OGC API - Features
 | https://github.com/aaime[@aaime]
 
-| https://gs-main.geosolutionsgroup.com/geoserver/tiles/[GeoServer]
+| https://gs-main.geosolutionsgroup.com/geoserver/tiles/[GeoSolutions GeoServer]
 | OGC API - Tiles
 | https://github.com/aaime[@aaime]
 
-| https://gs-main.geosolutionsgroup.com/geoserver/maps/[GeoServer]
+| https://gs-main.geosolutionsgroup.com/geoserver/maps/[GeoSolutions GeoServer]
 | OGC API - Maps (incomplete)
 | https://github.com/aaime[@aaime]
 
-| https://gs-main.geosolutionsgroup.com/geoserver/styles/[GeoServer]
+| https://gs-main.geosolutionsgroup.com/geoserver/styles/[GeoSolutions GeoServer]
 | OGC API - Styles
 | https://github.com/aaime[@aaime]
 
-| https://gs-main.geosolutionsgroup.com/geoserver/coverages/[GeoServer]
+| https://gs-main.geosolutionsgroup.com/geoserver/coverages/[GeoSolutions GeoServer]
 | OGC API - Coverages (incomplete)
 | https://github.com/aaime[@aaime]
 
@@ -57,6 +57,10 @@
 | OGC API - DGGS
 | https://github.com/allixender[@allixender]
 
+
+| https://ogc-api-dggs-rhealpix-qr4mrxboja-uc.a.run.app/[SURROUND Australia ogc-api-dggs for rhealpix]
+| OGC API - DGGS
+| https://github.com//recalcitrantsupplant[@recalcitrantsupplant]
 
 | TBA
 | TBA
@@ -72,13 +76,14 @@
 |===
 |Implementation | Type | Contact
 
-| https://github.com/opengeospatial/T17-API-D176-dev[T17 WorldWind Client]
+| https://github.com/opengeospatial/T17-API-D176-dev[T17 WorldWind Client] - https://ogctb17-apis-breithorn.solenix.ch/#/earth[demo]
 | OGC API - DGGS, EDR and Features
 | https://github.com/karriojala[@karriojala]
 
 | https://rmcf.github.io/dggs-webgis/#/[DGGS web-GIS]
 | OGC API - DGGS
 | https://github.com/rmcf[@rmcf]
+
 |===
 
 === Executable Test Suite
