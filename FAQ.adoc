@@ -7,3 +7,8 @@ A: Development and testing of the draft OGC API specifications.
 *Q: What examples exist of servers that have already implemented the draft specifications?*
 
 A: Examples of implementations are listed at https://github.com/opengeospatial/ogcapi-code-sprint-2021-10/blob/main/implementations.adoc
+
+*Q: Where should comments and issue be logged (i.e. Gitter/ GitHub Issues)?*
+
+A: TBA
+
