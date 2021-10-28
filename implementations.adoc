@@ -73,7 +73,7 @@
 |Implementation | Type | Contact
 
 | https://github.com/opengeospatial/T17-API-D176-dev[T17 WorldWind Client]
-| OGC API - EDR and Features
+| OGC API - DGGS, EDR and Features
 | https://github.com/karriojala[@karriojala]
 
 | https://rmcf.github.io/dggs-webgis/#/[DGGS web-GIS]
