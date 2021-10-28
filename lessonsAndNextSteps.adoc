@@ -15,14 +15,25 @@
 
 == Next Steps for the Innovation Program
 
+* A follow-on code sprint to help advance the OGC API - DGGS candidate standard.
+* Prototyping of CQL support in OGC API - DGGS.
+* Reinvigorate work around the DGGS Registry, including support for the latest version of the DGGS Abstract Spec.
+* Prototyping of spatio-temporal DGGS and trajectories (e.g. integration of EDR and DGGS building blocks).
+* Prototyping of an encoding of DGGS RS parameters (like a WKT DGGS RS, possibly consistent with a JSON Schema representation).
+* Experimentation with very large datasets, and exploration of Big Data use cases.
+* Share experiences on support for very large datasets, including reusability.
+* Experimentation of applying DGGS to other planets (relevant to the Planetary DWG). Some of the questions that could come up include would the equal area characteristic hold on those planets? ...
+* Visualization of height maps or extruded 3D cells from a DGGS
 * TBA
 * TBA
 * TBA
 * TBA
+
 
 == Next Steps for the Standards Program
 
-* TBA
+* Modularisation of the OGC API - DGGS into building blocks.
+* Explore whether there is a need for a conformance class for a 3D portrayal format such as KML, IFC, or other.
 * TBA
 * TBA
 * TBA
