@@ -24,17 +24,15 @@
 * Share experiences on support for very large datasets, including reusability.
 * Experimentation of applying DGGS to other planets (relevant to the Planetary DWG). Some of the questions that could come up include would the equal area characteristic hold on those planets? ...
 * Visualization of height maps or extruded 3D cells from a DGGS
-* TBA
-* TBA
-* TBA
-* TBA
+* Experimentation of the use of DGGS in Machine Learning applications.
 
 
 == Next Steps for the Standards Program
 
 * Modularisation of the OGC API - DGGS into building blocks.
 * Explore whether there is a need for a conformance class for a 3D portrayal format such as KML, IFC, or other.
-* TBA
-* TBA
-* TBA
+* Consider specification of a conformance class or guidance for hierachical collections in OGC API - Common. Probably for future versions or future extensions.
+* Consider functional grouping of conformance classes relating to query operations. 
+* Consider how versioning is applied at conformance class, building block, and other levels - particularly when combining different versions of the same API in the same solution.
+* A roadmap of when the various OGC API standards that have been approved and those that are in development are going to be updated to support OGC API - Common (assuming that OGC API - Common is approved as a standard).
 * TBA
